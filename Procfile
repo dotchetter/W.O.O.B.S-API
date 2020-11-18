@@ -1,1 +1,1 @@
-web: gunicorn woobsapi.woobsapi.wgsi --log-file -
+web: gunicorn woobsapi.wgsi --log-file -
