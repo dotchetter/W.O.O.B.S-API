@@ -72,7 +72,7 @@ MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
-ROOT_URLCONF = 'woobsapi.urls'
+ROOT_URLCONF = 'woobsapi.woobsapi.urls'
 
 TEMPLATES = [
     {
